@@ -1,5 +1,5 @@
 # actus-userguides base README
-#h1 Actus userguides
+## ACTUS  User Guide
 
 This repository contains documentation and user guides for the ACTUS ( Algorithmic Contract Term Universal Standard) technology developed and maintained by ACTUS Financial Research Foundation and described at https://demo.actusfrf.org.
 
