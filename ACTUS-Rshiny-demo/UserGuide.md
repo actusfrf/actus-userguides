@@ -21,7 +21,7 @@ wait for a moment to get the cloud application activated.)
 
 This version of the demo uses the public ACTUS server at https://dem.actusfrf.org:8080 to run the simulations.
 This server is running actus-webapp V1.0 and therefore supports interest rate and market risk factors but no 
-other risk modellins - as introduced in actus-webapp V1.1
+other risk modelling - as introduced in actus-webapp V1.1
 
 An alternate implementation allows you to run the entire demonstration standalone on your your workstation as 
 a collection of three linked docker containers. In this version the ACTUS server is actus-webapp V1.1 with a more 
@@ -37,5 +37,15 @@ standalone dockerized demo can be configured to run
 * OR     with the local dockerized ACTUS server on your workstation - reached at http://host.docker.internal:8083
 
 ## Steps to install the Standalone Workstation "dockerized" version of the Demo
-1. Install Docker Desktop on your workstation
-2.  
+1. Having Docker Desktop installed on your workstation is a prerequisite.
+   *  This software enables you to run and manage docker containers and docker images on your workstation.
+   *  It is free software and available on macOS, MS Windows and linux workstations.
+1. Pull a docker container image for the mongodb database with the command: 
+   *  $ docker pull mongodb/mongodb-community-server:6.0-ubi8
+   *  The demo is tested with this version; but is likely to work with other versions
+   *  mongodb-community-server is free downloadable software from mongo; they publish docker images for all versions.  
+1. Start a docker container on your workstation using this image and exporting the mongo database service on port localhost:27018
+   *  $ docker run –name mongo-server -d -p 27018:27017 mongodb/mongodb-community-server:6.0-ubi8
+   *  The running container will be named mongo-server. The standard port for a mongodb service is 27017.
+   *  Exporting the mongodb service as port 27018 reduces the risk of conflict with a (non-docker) mongodb service on your workstation.
+       
