@@ -36,11 +36,11 @@ standalone dockerized demo can be configured to run
 * EITHER with the remote public ACTUS server at https://demo.actusfrf.org:8080
 * OR     with the local dockerized ACTUS server on your workstation - reached at http://host.docker.internal:8083
 
-## Steps to install the Standalone Workstation "dockerized" version of the Demo
+## Steps to install and configure the Standalone Workstation "dockerized" version of the Demo
 1. Having Docker Desktop installed on your workstation is a prerequisite.
    *  This software enables you to run and manage docker containers and docker images on your workstation.
    *  It is free software and available on macOS, MS Windows and linux workstations.
-1. Pull a docker container image for the mongodb database with the command: 
+1. Pull a docker container image for the mongodb database from the public dockerhub repository with the command: 
    *  $ docker pull mongodb/mongodb-community-server:6.0-ubi8
    *  The demo is tested with this version; but is likely to work with other versions
    *  mongodb-community-server is free downloadable software from mongo; they publish docker images for all versions.  
@@ -48,4 +48,23 @@ standalone dockerized demo can be configured to run
    *  $ docker run –name mongo-server -d -p 27018:27017 mongodb/mongodb-community-server:6.0-ubi8
    *  The running container will be named mongo-server. The standard port for a mongodb service is 27017.
    *  Exporting the mongodb service as port 27018 reduces the risk of conflict with a (non-docker) mongodb service on your workstation.
+1. Pull an actus-server image from the public dockerhub repository with the command:
+   *  $ docker pull  fnparr/actus-server:no_mongo
+   *  This version of the actus-server uses actus-webappV1.1 and actus-core, with all persistence provided by a separate mongodb container
+1. Start a container using this actus-server image with the command:
+   *  $ docker run --name actus-server-nomongo -d -p 8083:8083 fnparr/actus-server:no_mongo
+   *  The new container is called actus-server-nomongo ; it will listen on port 8083 for ACTUS requests
+   *  Internally the actus-webapp software is configured to request mongodb services using  host.docker.internal:27018
+1. Pull the actus-rshiny-demo image from the public dockerhub repository using:  
+   *  $ docker pull fnparr/actus-rshiny-demo:b02
+1. Start a container with this image using the command:  
+   *  $ docker run --name using-actus-demo -d -p 3500:3838 fnparr/actus-rshiny-demo:b02
+   *  Port 3838 is the default request port for docker containers; we export this to localhost:3500 for the demo service
+1. Now point a browser at http://localhost:3500. The Demo screen should appear.
+   *  In its default configuration the demo is actually using the remote public ACTUS service at https://demo.actusfrf.org:8080
+1. TO chane this and configure for an all local standalone operation of the demo using the other containers you have installed
+   *  Click on the **help** tab in the title bar of the demo
+   *  Set the server to be: ** http://host.docker.internal:8083 **
+   *  This connects the demo to use ACTUS server container running on your desktop - which in turn uses the mongodb container
+   *  After this when you switch back to the Contract or portfolio tabs, the ACTUS simulations and plots are all being handled standalone.  
        
