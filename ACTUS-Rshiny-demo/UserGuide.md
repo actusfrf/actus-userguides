@@ -64,7 +64,7 @@ standalone dockerized demo can be configured to run
    *  In its default configuration the demo is actually using the remote public ACTUS service at https://demo.actusfrf.org:8080
 1. To change this and configure for an all local standalone operation of the demo using the other containers you have installed
    *  Click on the **help** tab in the title bar of the demo
-   *  Set the server to be: ** http://host.docker.internal:8083 **
+   *  Set the server to be:  http://host.docker.internal:8083 
    *  This connects the demo to use ACTUS server container running on your desktop - which in turn uses the mongodb container
    *  After this when you switch back to the Contract or portfolio tabs, the ACTUS simulations and plots are all being handled standalone.  
        
