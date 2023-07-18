@@ -15,7 +15,7 @@ generating cashflows does support simulation of all ACTUS contract types )
 
 ## Alternate implementations of the demo
 The cloud-based version of the demo can be accessed by pointing a browser at:
-https://docs.docker.com/get-started/publish-your-own-image/ .
+https://dadfir3.shinyapps.io/DaDFiR3demo/.
 This will put you immediately into the reactive demo. ( Sometimes you have to click on a 'reload' button and
 wait for a moment to get the cloud application activated.) 
 
@@ -40,6 +40,7 @@ standalone dockerized demo can be configured to run
 1. Having Docker Desktop installed on your workstation is a prerequisite.
    *  This software enables you to run and manage docker containers and docker images on your workstation.
    *  It is free software and available on macOS, MS Windows and linux workstations.
+   *  Get started with docker at https://docs.docker.com/get-started/hands-on-overview/
 1. Pull a docker container image for the mongodb database from the public dockerhub repository with the command: 
    *  $ docker pull mongodb/mongodb-community-server:6.0-ubi8
    *  The demo is tested with this version; but is likely to work with other versions
