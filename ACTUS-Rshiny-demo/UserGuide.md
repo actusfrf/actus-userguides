@@ -41,6 +41,7 @@ standalone dockerized demo can be configured to run
    *  This software enables you to run and manage docker containers and docker images on your workstation.
    *  It is free software and available on macOS, MS Windows and linux workstations.
    *  Get started with docker at https://docs.docker.com/get-started/hands-on-overview/
+   *  The 'Get Docker' section in this guide has download and install instructions. 
 1. Pull a docker container image for the mongodb database from the public dockerhub repository with the command: 
    *  $ docker pull mongodb/mongodb-community-server:6.0-ubi8
    *  The demo is tested with this version; but is likely to work with other versions
