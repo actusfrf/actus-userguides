@@ -72,5 +72,5 @@ standalone dockerized demo can be configured to run
        
 In the local standalone configuration the actus-server is actus-webapp V1.1 with support for the ACTUS Risk Factor API, and it is cennected to 
 a mongodb container in which scenario data can be stored persistent;y, BUT the current ACTUS-Rshiny-demo has no support for defining and using 
-new rosk scenarios. That capability of the actus-server container can be triggered and tested by making direct curl requests to http://localhost:8083 and 
+new risk scenarios. That capability of the actus-server container can be triggered and tested by making direct curl requests to http://localhost:8083 and 
 analysing the returned data. The ACTUS RFI User Guide in this git repository provides more detailed information on how to do this. 
