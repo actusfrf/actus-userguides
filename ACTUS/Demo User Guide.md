@@ -172,7 +172,7 @@ This example helps understand the obligations and dynamics of a short position i
 - Periodic interest payments are made annually.
 - Rate resets adjust interest rates bi-annually.
 
-#### Event List Analysis:
+#### Event List:
 
 - Detailed breakdown of each financial transaction over the loan term.
 
