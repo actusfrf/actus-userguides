@@ -1,0 +1,27 @@
+{
+  "id": "Introduction/Benefits of ACTUS",
+  "title": "Benefits of ACTUS",
+  "description": "- Watch video – YouTube",
+  "source": "@site/docs/Introduction/Benefits of ACTUS.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/Benefits of ACTUS",
+  "permalink": "/docs/Introduction/Benefits of ACTUS",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/Benefits of ACTUS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Enhanced Model for Analytics",
+    "permalink": "/docs/Introduction/Model-for-analytics"
+  },
+  "next": {
+    "title": "ACTUS Resources",
+    "permalink": "/docs/intro"
+  }
+}

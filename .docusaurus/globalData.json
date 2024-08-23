@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Introduction/Overview",
+          "docs": [
+            {
+              "id": "actus-demo/demo-user-guide",
+              "path": "/docs/actus-demo/demo-user-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "actus-demo/server-curl-samples",
+              "path": "/docs/actus-demo/server-curl-samples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dadfir3-demo/About",
+              "path": "/docs/dadfir3-demo/About",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dadfir3-demo/ACTUS Rshiny Demo Guide",
+              "path": "/docs/dadfir3-demo/ACTUS Rshiny Demo Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dadfir3-demo/Demo User Guide",
+              "path": "/docs/dadfir3-demo/Demo User Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/Benefits of ACTUS",
+              "path": "/docs/Introduction/Benefits of ACTUS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/core_activities",
+              "path": "/docs/Introduction/core_activities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/Model-for-analytics",
+              "path": "/docs/Introduction/Model-for-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/Overview",
+              "path": "/docs/Introduction/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction/Understanding-Financial-Contracts-and-Systems",
+              "path": "/docs/Introduction/Understanding-Financial-Contracts-and-Systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/introduction-to-actus",
+              "path": "/docs/category/introduction-to-actus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/actus-demo",
+              "path": "/docs/category/actus-demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dadfir3-demo",
+              "path": "/docs/category/dadfir3-demo",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/introduction-to-actus",
+                "label": "Introduction to ACTUS"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

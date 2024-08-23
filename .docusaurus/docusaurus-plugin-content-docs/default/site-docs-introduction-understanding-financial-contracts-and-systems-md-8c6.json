@@ -1,0 +1,27 @@
+{
+  "id": "Introduction/Understanding-Financial-Contracts-and-Systems",
+  "title": "Understanding Financial Contracts and Systems",
+  "description": "Today's Financial Contracts",
+  "source": "@site/docs/Introduction/Understanding-Financial-Contracts-and-Systems.md",
+  "sourceDirName": "Introduction",
+  "slug": "/Introduction/Understanding-Financial-Contracts-and-Systems",
+  "permalink": "/docs/Introduction/Understanding-Financial-Contracts-and-Systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction/Understanding-Financial-Contracts-and-Systems.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core Activities in the Financial Sector",
+    "permalink": "/docs/Introduction/core_activities"
+  },
+  "next": {
+    "title": "The Enhanced Model for Analytics",
+    "permalink": "/docs/Introduction/Model-for-analytics"
+  }
+}
