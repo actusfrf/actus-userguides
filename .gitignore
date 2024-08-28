@@ -4,3 +4,5 @@
 # node modules
 node_modules
 
+# mac os files
+.DS_Store
