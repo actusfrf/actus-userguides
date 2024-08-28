@@ -67,15 +67,15 @@ const config: Config = {
 			// title: "My Site",
 			logo: {
 				alt: "Actus Logo",
-				src: "img/logo.svg",
+				src: "img/ActusLogoRGB.jpg",
 			},
 			items: [
-				{
-					type: "docSidebar",
-					sidebarId: "tutorialSidebar",
-					position: "left",
-					label: "Guides",
-				},
+				// {
+				// 	type: "docSidebar",
+				// 	sidebarId: "tutorialSidebar",
+				// 	position: "left",
+				// 	label: "Guides",
+				// },
 				// {to: "/blog", label: "Blog", position: "left"},
 				// {
 				// 	href: "https://github.com/facebook/docusaurus",

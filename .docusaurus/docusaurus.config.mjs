@@ -50,16 +50,9 @@ export default {
     "navbar": {
       "logo": {
         "alt": "Actus Logo",
-        "src": "img/logo.svg"
+        "src": "img/ActusLogoRGB.jpg"
       },
-      "items": [
-        {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Guides"
-        }
-      ],
+      "items": [],
       "hideOnScroll": false
     },
     "footer": {
