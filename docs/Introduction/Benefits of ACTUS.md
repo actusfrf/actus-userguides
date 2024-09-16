@@ -1,10 +1,12 @@
 ---
 sidebar_position: 5
 ---
+
 # Benefits of ACTUS
+
 - Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=641s)
 
-## Key Advantages of the Actus Standard
+## Key Advantages of the ACTUS Standard
 
 1. **Improved Efficiency:** Standardizes financial contracts, reducing inefficiencies and costs, and speeding up operations.
 
@@ -22,7 +24,7 @@ sidebar_position: 5
 
 ## For Banks
 
-![image](https://github.com/user-attachments/assets/1f2298d0-a129-4083-955a-0c2987f51b67)
+![image](../../assets/actus_bankers-insights.png)
 
 1. **Transaction Processing:** Enhances core systems for more efficient processing of transactions.
 
@@ -33,7 +35,8 @@ sidebar_position: 5
 4. **Regulatory Reporting:** Reduces the cost and complexity of regulatory reporting by providing standardized data.
 
 ## For Regulators
-![image](https://github.com/user-attachments/assets/efac1878-7310-4b5a-b163-0b90eed2aaf8)
+
+![image](../../assets/actus-regulators-insights.png)
 
 1. **Data Collection:** Enables ongoing remote collection of detailed transaction and position data.
 
