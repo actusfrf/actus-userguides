@@ -10,7 +10,9 @@ In the financial sector, core activities revolve around financial contracts. The
 
 ![image](../../assets/core_activities_finance.png)
 
-Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=130s)
+<div align="center">
+    <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=130" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 - **Issuance:** Creating and issuing new financial contracts like loans, bonds, and derivatives.
 - **Lifecycle Management:** Managing contracts throughout their lifecycle, including payments, adjustments, and renewals.
