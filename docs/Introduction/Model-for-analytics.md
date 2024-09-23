@@ -7,7 +7,10 @@ sidebar_position: 4
 This enhanced model provides a step-by-step approach to understanding financial contracts. Starting with risk factors and contract details, it tracks the flow of events and expected cash flows, ultimately leading to analytical results. These results help financial institutions manage risks, predict outcomes, and make informed decisions in a complex financial environment.
 
 ![image](../../assets/analytics_model2.png)
-Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=538s)
+
+<div align="center">
+    <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=538" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The model offers a comprehensive framework for analyzing financial contracts. It explains how various inputs and events lead to expected cash flows and ultimately affect key financial outcomes like liquidity, income, and value.
 

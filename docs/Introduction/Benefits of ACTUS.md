@@ -4,7 +4,9 @@ sidebar_position: 5
 
 # Benefits of ACTUS
 
-- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=641s)
+<div align="center">
+    <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=641" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Key Advantages of the ACTUS Standard
 

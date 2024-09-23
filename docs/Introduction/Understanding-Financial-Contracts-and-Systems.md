@@ -8,7 +8,9 @@ sidebar_position: 3
 
 ![image](../../assets/traditional_contract.png)
 
-- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=324s)
+<div align="center">
+    <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=324" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Centrality of Financial Contracts
 
@@ -28,13 +30,13 @@ A single algorithm can represent various types of financial contracts, including
 
 Despite the wide range of financial products, they generally use a limited number of cash flow patterns. Most payment obligations can be represented by fewer than three dozen algorithms, underscoring the commonality in financial contract structures.
 
-- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36&t=378s)
-
 ## How to think about financial systems
 
 ![image](../../assets/transaction.png)
 
-- Watch video – [YouTube](https://youtu.be/DGbhhUmrwWU?si=V1ibiBrYBs8UH36T&t=399s)
+<div align="center">
+    <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=399" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Transaction Processing
 
