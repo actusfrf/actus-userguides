@@ -66,6 +66,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "quickstart",
+              "path": "/docs/quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/introduction-to-actus",
               "path": "/docs/category/introduction-to-actus",
               "sidebar": "tutorialSidebar"
