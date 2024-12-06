@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-0f8": {
+  "/docs-c73": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-438": {
+  "/docs-6a2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-769": {
+  "/docs-c77": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/actus-demo/demo-user-guide-63a": {
@@ -117,6 +117,10 @@
   "/docs/Introduction/Understanding-Financial-Contracts-and-Systems-184": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-introduction-understanding-financial-contracts-and-systems-8-c-6-2e7"
+  },
+  "/docs/quickstart-79e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quickstart-807-6cd"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
