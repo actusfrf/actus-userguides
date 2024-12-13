@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ACTUS Quick Start",
-    "permalink": "/docs/quickstart"
+    "title": "ACTUS Server cURL Samples",
+    "permalink": "/docs/actus-demo/server-curl-samples"
   },
   "next": {
-    "title": "ACTUS Demo",
-    "permalink": "/docs/category/actus-demo"
+    "title": "DaDFiR3 Demo",
+    "permalink": "/docs/category/dadfir3-demo"
   }
 }
