@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "competition",
+              "path": "/docs/competition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "dadfir3-demo/About",
               "path": "/docs/dadfir3-demo/About",
               "sidebar": "tutorialSidebar"

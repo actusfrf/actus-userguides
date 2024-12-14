@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c73'),
+    component: ComponentCreator('/docs', '402'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '6a2'),
+        component: ComponentCreator('/docs', '120'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c77'),
+            component: ComponentCreator('/docs', '0b3'),
             routes: [
               {
                 path: '/docs/actus-demo/demo-user-guide',
@@ -81,6 +81,12 @@ export default [
               {
                 path: '/docs/category/introduction-to-actus',
                 component: ComponentCreator('/docs/category/introduction-to-actus', 'de9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/competition',
+                component: ComponentCreator('/docs/competition', '88e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
