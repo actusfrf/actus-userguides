@@ -29,7 +29,7 @@ Follow these steps to install and run ACTUS:
 
 3. Run the following command to start the Docker containers:
     ```bash
-    docker compose -f config2-docker-actus-rf20.yml -p config2-docker-actus-rf20 up
+    docker compose -f quickstart-docker-actus-rf20.yml -p quickstart-docker-actus-rf20 up
 
 4. Verify that the services are running by checking the logs for the following confirmation message:
     ```plaintext
@@ -41,7 +41,7 @@ Follow these steps to install and run ACTUS:
 Populate the database with sample risk factor definitions for a US Treasury 5-Year Falling scenario.
 
 1. Navigate to the test files directory:
-    ```bash
+    ```plaintext
     docker-actus-rf20/actus-riskserver-ce/actus-riskservice/testB
 2. Run the command to populate the risk database:
     ```bash
@@ -60,7 +60,7 @@ This will display the reference data that has been created and saved.
 To execute an ACTUS simulation using the populated data:
 
 1. Run the following command:
-    ```plaintext
+    ```bash
     source l3ANNwRF.txt
 
 2. Upon successful execution, you should see this message:
