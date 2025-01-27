@@ -76,7 +76,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Financial Research Foundation. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Financial Research Foundation. Built with Docusaurus."
     },
     "prism": {
       "theme": {
