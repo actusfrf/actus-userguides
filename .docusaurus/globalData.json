@@ -71,6 +71,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "license",
+              "path": "/docs/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "quickstart",
               "path": "/docs/quickstart",
               "sidebar": "tutorialSidebar"
