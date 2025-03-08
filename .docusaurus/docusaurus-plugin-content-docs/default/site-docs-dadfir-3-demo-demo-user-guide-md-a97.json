@@ -19,5 +19,9 @@
   "previous": {
     "title": "ACTUS Rshiny Demo Guide",
     "permalink": "/docs/dadfir3-demo/ACTUS Rshiny Demo Guide"
+  },
+  "next": {
+    "title": "[ACTUSFRF] CORE LICENSE 1.0",
+    "permalink": "/docs/license"
   }
 }

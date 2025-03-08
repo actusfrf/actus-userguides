@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '402'),
+    component: ComponentCreator('/docs', 'e4c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '120'),
+        component: ComponentCreator('/docs', '457'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0b3'),
+            component: ComponentCreator('/docs', 'e86'),
             routes: [
               {
                 path: '/docs/actus-demo/demo-user-guide',
@@ -141,6 +141,12 @@ export default [
               {
                 path: '/docs/Introduction/Understanding-Financial-Contracts-and-Systems',
                 component: ComponentCreator('/docs/Introduction/Understanding-Financial-Contracts-and-Systems', '184'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/license',
+                component: ComponentCreator('/docs/license', '773'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
