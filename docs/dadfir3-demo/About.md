@@ -6,7 +6,8 @@ sidebar_position: 1
 
 ## About the Project
 
-### Our Vision: Reworking the reporting infrastructure.
+### Our Vision
+Reworking the reporting infrastructure.
 
 #### We see a paradigm shift for financial regulation with:
 

@@ -13,6 +13,9 @@ export default {
   "projectName": "actus-documentation",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
+  "clientModules": [
+    "./src/client-modules/stableNavigation.js"
+  ],
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -50,9 +53,26 @@ export default {
     "navbar": {
       "logo": {
         "alt": "Actus Logo",
-        "src": "img/ActusLogoRGB.jpg"
+        "src": "img/ActusLogoRGB.jpg",
+        "href": "/"
       },
-      "items": [],
+      "items": [
+        {
+          "href": "https://www.actusfrf.org/dictionary",
+          "position": "left",
+          "label": "Dictionary"
+        },
+        {
+          "href": "https://www.actusfrf.org/taxonomy",
+          "label": "Taxonomy",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/actusfrf",
+          "label": "GitHub",
+          "position": "right"
+        }
+      ],
       "hideOnScroll": false
     },
     "footer": {
@@ -314,7 +334,6 @@ export default {
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
-  "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

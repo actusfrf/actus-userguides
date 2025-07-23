@@ -12,7 +12,7 @@ This complexity leads to challenges in handling financial data, making it diffic
 
 ## What is ACTUS?
 
-ACTUS (Algorithmic Contracts Types Unified Standards) is a standardization framework for financial contracts. It aims to bring consistency and clarity to how financial contracts are represented, executed, and analyzed across different platforms and institutions.
+ACTUS is a standard for defining the terms of a financial contract. What makes ACTUS “algorithmic” is that for any contract defined using the ACTUS standard, it is possible to algorithmically compute the expected future cash flows of the contract for any specified risk scenario. A universal, algorithmic, open standard for contract terms is possible because all useful financial contracts necessarily define a deterministic set of expected future cash flows for all possible business contexts.
 
 ![image](https://github.com/user-attachments/assets/e0d7d4f3-1f2b-4f54-a113-d40fbe755d70)
 

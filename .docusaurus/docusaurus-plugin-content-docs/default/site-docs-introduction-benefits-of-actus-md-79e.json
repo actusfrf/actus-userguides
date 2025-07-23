@@ -1,6 +1,6 @@
 {
   "id": "Introduction/Benefits of ACTUS",
-  "title": "Benefits of ACTUS",
+  "title": "Benefits",
   "description": "Key Advantages of the ACTUS Standard",
   "source": "@site/docs/Introduction/Benefits of ACTUS.md",
   "sourceDirName": "Introduction",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Enhanced Model for Analytics",
+    "title": "Analytics Model",
     "permalink": "/docs/Introduction/Model-for-analytics"
   },
   "next": {

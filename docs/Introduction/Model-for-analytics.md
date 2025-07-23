@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# The Enhanced Model for Analytics
+# Analytics Model
 
 This enhanced model provides a step-by-step approach to understanding financial contracts. Starting with risk factors and contract details, it tracks the flow of events and expected cash flows, ultimately leading to analytical results. These results help financial institutions manage risks, predict outcomes, and make informed decisions in a complex financial environment.
 

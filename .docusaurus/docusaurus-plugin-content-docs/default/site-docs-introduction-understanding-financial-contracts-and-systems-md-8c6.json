@@ -1,6 +1,6 @@
 {
   "id": "Introduction/Understanding-Financial-Contracts-and-Systems",
-  "title": "Understanding Financial Contracts and Systems",
+  "title": "Contracts and Systems",
   "description": "Today's Financial Contracts",
   "source": "@site/docs/Introduction/Understanding-Financial-Contracts-and-Systems.md",
   "sourceDirName": "Introduction",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Core Activities in the Financial Sector",
+    "title": "Core Activities",
     "permalink": "/docs/Introduction/core_activities"
   },
   "next": {
-    "title": "The Enhanced Model for Analytics",
+    "title": "Analytics Model",
     "permalink": "/docs/Introduction/Model-for-analytics"
   }
 }

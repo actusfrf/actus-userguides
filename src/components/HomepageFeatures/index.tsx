@@ -9,29 +9,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Quick Intergration',
     description: (
       <>
-        ACTUS was designed from the ground up to be easily integrated and
-        used to get your algorithmic contracts up and running quickly.
+        The ACTUS Community Edition download and related demo apps make it easy to see 
+        how ACTUS can be used to incorporate forward-looking cash flow analysis, 
+        risk management or digital asset management capabilities in your 
+        financial business.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Core Features',
     description: (
       <>
-        ACTUS lets you focus on your contract definitions, and we&apos;ll handle the underlying algorithms. Go
-        ahead and define your contracts using the ACTUS standard.
+        You can focus on the creation and composition of your financial products, 
+        use ACTUS to generate detailed future cash flow projections for your 
+        product mix using scenarios of your choice, and then feed the forecasted cash flow 
+        results into analytics for valuation, liquidity, and risk management—all by simply 
+        expressing your contracts using the ACTUS standard.
       </>
     ),
   },
   {
-    title: 'Powered by Robust Algorithms',
+    title: 'Smart Algorithms',
     description: (
       <>
-        Extend or customize your contract structures by reusing robust algorithms. ACTUS can
-        be extended while maintaining the integrity of the contract definitions.
+       Extend or customize your contract structures by applying robust ACTUS Algorithmic Contract Types™, 
+        which can interact with external behavior observers to reflect your “what-if” scenarios and 
+        forecasts while maintaining the integrity of the contract definitions.
       </>
     ),
   },

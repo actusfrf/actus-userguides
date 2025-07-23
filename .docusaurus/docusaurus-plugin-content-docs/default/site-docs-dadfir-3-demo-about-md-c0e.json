@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DaDFiR3 Demo",
-    "permalink": "/docs/category/dadfir3-demo"
+    "title": "ACTUS Server cURL Samples",
+    "permalink": "/docs/actus-demo/server-curl-samples"
   },
   "next": {
     "title": "ACTUS Rshiny Demo Guide",

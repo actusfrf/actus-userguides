@@ -1,0 +1,8 @@
+{
+	"label": "2. Create sample Risk Factors in Mongodb",
+	"position": 2,
+	"link": {
+		"type": "generated-index",
+		"description": "Here we create and save sample Risk Factors in the ACTUS Basic Quickstart Mongodb  "
+	}
+}

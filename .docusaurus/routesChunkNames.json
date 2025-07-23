@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e4c": {
+  "/docs-3f0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-457": {
+  "/docs-229": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e86": {
+  "/docs-b6c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/actus-demo/demo-user-guide-63a": {
@@ -70,13 +70,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-actus-demo-server-curl-samplesb-39-156"
   },
-  "/docs/category/actus-demo-1af": {
+  "/docs/category/1-extention-for-actus-risk-factors-288": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-actus-demoaf-0-8e8"
+    "__props": "__props---docs-category-1-extention-for-actus-risk-factors-2-c-7-f78"
   },
-  "/docs/category/dadfir3-demo-245": {
+  "/docs/category/2-create-sample-risk-factors-in-mongodb-724": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-dadfir-3-demof-1-d-64c"
+    "__props": "__props---docs-category-2-create-sample-risk-factors-in-mongodb-07-d-5d8"
+  },
+  "/docs/category/3-simulate-actus-contract-with-market-risk-scenario-894": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-3-simulate-actus-contract-with-market-risk-scenario-498-d37"
+  },
+  "/docs/category/4-risk-modeling-for-contract-and-counterparty-behaviors-f30": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-4-risk-modeling-for-contract-and-counterparty-behaviors-7-c-8-b84"
+  },
+  "/docs/category/5-future-enhancements--a30": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-5-future-enhancements-26-d-1af"
   },
   "/docs/category/introduction-to-actus-de9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -129,6 +141,54 @@
   "/docs/quickstart-79e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quickstart-807-6cd"
+  },
+  "/docs/RiskFactors/Improvements/extensions-8f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-improvements-extensions-37-f-5bc"
+  },
+  "/docs/RiskFactors/overview/-ee6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-overview-1-c-4-eea"
+  },
+  "/docs/RiskFactors/Risk modelling/activating_behaviour_model-340": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-risk-modelling-activating-behaviour-modelc-6-c-21f"
+  },
+  "/docs/RiskFactors/Risk modelling/Distinguishing-a97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-risk-modelling-distinguishingd-3-b-6d2"
+  },
+  "/docs/RiskFactors/Risk modelling/Example_of_contract-42f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-risk-modelling-example-of-contractf-31-c5d"
+  },
+  "/docs/RiskFactors/Risk modelling/Output-6db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-risk-modelling-output-67-b-4e7"
+  },
+  "/docs/RiskFactors/Risk modelling/sample_2d_payment_model-c6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-risk-modelling-sample-2-d-payment-model-829-e25"
+  },
+  "/docs/RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series-804": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-simulating-an-actus-contract-output-cashflow-event-seriesecc-070"
+  },
+  "/docs/RiskFactors/Simulating an ACTUS contract/simple_ACTUS_contract-861": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-simulating-an-actus-contract-simple-actus-contract-3-a-5-e31"
+  },
+  "/docs/RiskFactors/Simulating an ACTUS contract/with_risk-366": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-simulating-an-actus-contract-with-risk-128-382"
+  },
+  "/docs/RiskFactors/Using mongodb ACTUS risk database/Initialize_and_view_your_persistent_risk_factor_store_in_MongoDB-c2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-using-mongodb-actus-risk-database-initialize-and-view-your-persistent-risk-factor-store-in-mongo-db-5-b-3-2b8"
+  },
+  "/docs/RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_Reference_Indexes-3f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-using-mongodb-actus-risk-database-inserting-sample-risk-data-reference-indexes-6-c-4-88a"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

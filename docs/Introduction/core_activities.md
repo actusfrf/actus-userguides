@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Core Activities in the Financial Sector
+# Core Activities
 
-## Financial Contracts in the Financial Sector
+## Financial Contracts
 
 In the financial sector, core activities revolve around financial contracts. These contracts include:
 

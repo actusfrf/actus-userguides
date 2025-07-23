@@ -27,7 +27,7 @@ The function provided in these two demo implementations is almost identical. The
 - EITHER with the remote public ACTUS server at `https://demo.actusfrf.org:8080`.
 - OR with the local dockerized ACTUS server on your workstation - reached at `http://host.docker.internal:8083`.
 
-## Steps to Install and Configure the Standalone Workstation "Dockerized" Version of the Demo
+## Installing the Docker Demo Version
 
 1. **Prerequisite: Install Docker Desktop**
 
