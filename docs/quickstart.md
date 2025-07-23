@@ -24,9 +24,9 @@ Follow these steps to install and run ACTUS:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fnparr/docker-actus-rf20
+   git clone https://github.com/actusfrf/actus-docker-networks
    ```
-2. Navigate to the directory where the repository was cloned.
+2. Navigate to the directory where the repository was cloned (actus-docker-networks will be the name of the directory created).
 
 3. Run the following command to start the Docker containers:
 
@@ -42,13 +42,13 @@ Follow these steps to install and run ACTUS:
 
 ![image](../assets/quickstart.jpg)
 
-## Populating the Database
+## Populating the Risk Factor Database
 
 Populate the database with sample risk factor definitions for a US Treasury 5-Year Falling scenario.
 
 1. Navigate to the test files directory:
    ```plaintext
-   docker-actus-rf20/actus-riskserver-ce/actus-riskservice/testB
+   <ROOT-INSTALL-DIR>/actus-docker-networks/test
    ```
 2. Run the command to populate the risk database:
    ```bash
@@ -67,20 +67,34 @@ This will display the reference data that has been created and saved.
 
 ## Running a Sample ACTUS Simulation
 
-To execute an ACTUS simulation using the populated data:
+To execute an ACTUS simulation using the risk factors sent inline: This is to check that the ACTUS service works (without looking up the risk DB in the ACTUS external risk service)
 
 1. Run the following command:
-
-   ```bash
+```bash
    source l3ANNwRF.txt
+```
 
-   ```
-
-2. Upon successful execution, you should see this message:
+2.	Upon successful execution, you should see this message:
    ```json
-   "status": "Success"
+     "status": "Success"
+   ```
+To execute an ACTUS simulation using the populated data in the risk service DB: This is to check that the ACTUS service in turn calls the ACTUS risk service, and works (looking up the risk DB in the ACTUS external risk service) and using it for the scenario simulation.
+
+3. Running a test to call the risk server DB and use that to run a scenario simulation: 
+```bash
+  source putMSFT_rising.txt
+  source test/putScn01.txt
+```
+4. Run the scenario simulation:
+   ```bash
+   source scn01ANNwRF_ss.txt
    ```
 
+5. Upon successful execution, you should see this message:
+
+```json
+  "status": "Success"
+```
 ## Completion
 
 Congratulations! You have successfully:

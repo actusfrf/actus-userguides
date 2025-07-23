@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Understanding Financial Contracts and Systems
+# Contracts and Systems
 
 ## Today's Financial Contracts
 
@@ -14,7 +14,7 @@ sidebar_position: 3
 
 ## Centrality of Financial Contracts
 
-Financial contracts are the backbone of modern financial systems. They facilitate the exchange of goods, services, and Financial contracts play a pivotal role in all financial activities as they outline the obligations, rights, and cash flows essential for managing transactions and operations. Without a standardized approach to these contracts, institutions risk encountering inefficiencies and increased operational risks.
+Financial contracts are the backbone of modern financial systems. They facilitate the exchange of goods and services, and play a pivotal role in all financial activities as they outline the obligations, rights, and cash flows essential for managing transactions and operations. Without a standardized approach to these contracts, institutions risk encountering inefficiencies and increased operational risks.
 
 ### Underlying Insights at the Heart of the ACTUS Standard
 

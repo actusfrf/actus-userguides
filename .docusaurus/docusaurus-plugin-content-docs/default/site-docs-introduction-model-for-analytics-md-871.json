@@ -1,6 +1,6 @@
 {
   "id": "Introduction/Model-for-analytics",
-  "title": "The Enhanced Model for Analytics",
+  "title": "Analytics Model",
   "description": "This enhanced model provides a step-by-step approach to understanding financial contracts. Starting with risk factors and contract details, it tracks the flow of events and expected cash flows, ultimately leading to analytical results. These results help financial institutions manage risks, predict outcomes, and make informed decisions in a complex financial environment.",
   "source": "@site/docs/Introduction/Model-for-analytics.md",
   "sourceDirName": "Introduction",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Understanding Financial Contracts and Systems",
+    "title": "Contracts and Systems",
     "permalink": "/docs/Introduction/Understanding-Financial-Contracts-and-Systems"
   },
   "next": {
-    "title": "Benefits of ACTUS",
+    "title": "Benefits",
     "permalink": "/docs/Introduction/Benefits of ACTUS"
   }
 }

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Benefits of ACTUS
+# Benefits
 
 <div align="center">
     <iframe width="896" height="504" src="https://youtube.com/embed/DGbhhUmrwWU?start=641" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +24,7 @@ sidebar_position: 5
 
 7. **Transformative Impact:** Brings clarity and consistency to financial contracts, significantly improving data management and analysis.
 
-## For Banks
+### For Banks
 
 ![image](../../assets/actus_bankers-insights.png)
 
@@ -36,7 +36,7 @@ sidebar_position: 5
 
 4. **Regulatory Reporting:** Reduces the cost and complexity of regulatory reporting by providing standardized data.
 
-## For Regulators
+### For Regulators
 
 ![image](../../assets/actus-regulators-insights.png)
 

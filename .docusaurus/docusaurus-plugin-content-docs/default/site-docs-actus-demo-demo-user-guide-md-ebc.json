@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ACTUS Demo",
-    "permalink": "/docs/category/actus-demo"
+    "title": "Possible Improvements And Extensions",
+    "permalink": "/docs/RiskFactors/Improvements/extensions"
   },
   "next": {
     "title": "ACTUS Server cURL Samples",

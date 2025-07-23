@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Companion User Guide for ACTUS Portfolio Analysis with Interest Rate Risk Scenarios
+# Guide to ACTUS Portfolio Interest Rate Risk Analysis
 
 ## Document Purpose
 
@@ -10,7 +10,7 @@ This document provides guidance for users of the ACTUS demonstrations, specifica
 
 - **ACTUS portfolio analysis with interest rate risk scenarios** – [https://dadfir3.shinyapps.io/DaDFiR3demo](https://dadfir3.shinyapps.io/DaDFiR3demo)
 
-Software demonstrations should be self-explanatory and self-documenting. However, missing context and required user actions can make exploring the demo capabilities difficult and frustrating. This companion user guide aims to help users navigate these obstacles. While the demonstration software and in-demo documentation will eventually be updated to address these issues, this user guide provides an immediate solution and highlights the areas needing improvement.
+Software demonstrations should be self-explanatory and self-documenting. However, missing context and non-obvious required user actions can make exploring the demo capabilities difficult and frustrating. This companion user guide aims to help users navigate these obstacles. While the demonstration software and in-demo documentation will eventually be updated to address these issues, this user guide provides an immediate solution and highlights the areas needing improvement.
 
 ### Overview
 
@@ -24,11 +24,11 @@ The demo operates similarly on both cloud and local installations. The local ver
 
 The purpose of this demo is to illustrate how ACTUS can simulate cash flows for individual contracts or portfolios based on various interest rate scenarios. The demo supports different interest rate projections, particularly for US 5-year treasury bonds, impacting variable rate contracts. It provides graphical plots of cash flows, profit, or liquidity over time.
 
-### Key Value Proposition
+## Key Value Proposition
 
 ACTUS excels in accurately calculating income and liquidity behavior for portfolios under different market risk scenarios, demonstrating its value in precise financial analysis.
 
-### Steps in working this demo:
+### Steps in working this demo
 
 1. The demo comes up in a display with five tabs in the title bar:
    - Interest Rate Scenarios
@@ -161,11 +161,11 @@ The generated cashflow results are shown on the right side of the display in two
 
 ### Example Scenarios and Interpretations
 
-**Scenario 1:**
+### Scenario 1
 
 ![image](https://github.com/user-attachments/assets/25c92647-d2df-4bdf-a24c-dfcf43c8686b)
 
-**Interpretation:**
+#### Interpretation
 
 In this scenario, we examine a Principal at Maturity (PAM) contract with the following details:
 
@@ -181,7 +181,7 @@ In this scenario, we examine a Principal at Maturity (PAM) contract with the fol
 
 The generated cashflow plot and event list provide a detailed visualization and breakdown of the loan’s financial dynamics over its term.
 
-#### Cashflow Plot Analysis:
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
 
@@ -194,7 +194,7 @@ The generated cashflow plot and event list provide a detailed visualization and 
 3. **Interest Accrual:**
    - The dashed green lines represent the accrual of interest between payment dates. Each accrual period culminates in an interest payment.
 
-#### Event List:
+#### Event List
 
 The event list provides a detailed breakdown of each financial transaction over the loan term:
 
@@ -209,7 +209,7 @@ The event list provides a detailed breakdown of each financial transaction over 
 - **Principal Repayment:**
   The principal amount is repaid in full at maturity (2020-02-01).
 
-**Scenario 2:**
+### Scenario 2
 
 ![image](https://github.com/user-attachments/assets/75da0fea-df5e-428e-be0f-ff86bdf48bec)
 
@@ -229,7 +229,7 @@ In this scenario, we examine a Principal at Maturity (PAM) contract with the fol
 
 The generated cashflow plot and event list provide a detailed visualization and breakdown of the loan’s financial dynamics over its term.
 
-#### Cashflow Plot Analysis:
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
 
@@ -246,7 +246,7 @@ The generated cashflow plot and event list provide a detailed visualization and 
 4. **Rate Reset (RR):**
    - The rate reset events are marked with green "RR" labels on the plot, indicating when the interest rate is adjusted.
 
-#### Event List:
+#### Event List
 
 ![image](https://github.com/user-attachments/assets/44d5ffb2-31bb-4267-865f-8b98bb5801b8)
 
@@ -266,11 +266,11 @@ The event list provides a detailed breakdown of each financial transaction over 
 
 Overall, this scenario provides a clear view of the financial obligations under a PAM contract with decreasing interest rates. The periodic interest payments vary due to the rate resets, and the final principal repayment is made at maturity.
 
-**Scenario 3:**
+### Scenario 3
 
 ![image](https://github.com/user-attachments/assets/a6866a9f-0cb6-4aa7-a646-5b8dd88fc7bb)
 
-## Interpretation:
+#### Interpretation
 
 In this scenario, we analyze a Principal at Maturity (PAM) contract with the following details:
 
@@ -286,7 +286,7 @@ In this scenario, we analyze a Principal at Maturity (PAM) contract with the fol
 
 The generated cashflow plot and event list provide a detailed visualization and breakdown of the loan’s financial dynamics over its term.
 
-### Cashflow Plot Analysis:
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
 
@@ -303,24 +303,24 @@ The generated cashflow plot and event list provide a detailed visualization and 
 4. **Rate Reset (RR):**
    - The rate reset events are marked with green "RR" labels on the plot, indicating when the interest rate is adjusted.
 
-### Event List:
+#### Event List
 
 The event list provides a detailed breakdown of each financial transaction over the loan term.
 
 ![image](https://github.com/user-attachments/assets/9fada068-767f-4ed7-b5aa-fb98fc1413f0)
 
-### Key Points:
+#### Key Points
 
 - **IED (Initial Exchange Date):** The initial loan disbursement of 5000 CHF occurs on 2018-01-01.
 - **IP (Interest Payment):** Interest payments are made every 6 months. The amount varies due to the rate resets every 6 months according to the increasing rates scenario.
 - **RR (Rate Reset):** The interest rate is adjusted every 6 months based on the rate reset frequency and the specified rate spread.
 - **Principal Repayment:** The principal amount is repaid in full at maturity (2023-01-01).
 
-**Scenario 4:**
+### Scenario 4
 
 ![image](https://github.com/user-attachments/assets/42caa000-1737-4140-a24a-f4ec3daf36a4)
 
-## Interpretation:
+#### Interpretation
 
 In this scenario, we examine a Principal at Maturity (PAM) contract with the following details:
 
@@ -336,11 +336,11 @@ In this scenario, we examine a Principal at Maturity (PAM) contract with the fol
 
 The generated cashflow plot and event list provide a detailed visualization and breakdown of the loan’s financial dynamics over its term.
 
-**Scenario 5:**
+### Scenario 5
 
 ![image](https://github.com/mounir-hajar/userguide/assets/173672475/1d67e8fe-132e-40ff-b814-c20e60012305)
 
-## Interpretation:
+#### Interpretation
 
 In this scenario, we examine an Annuity (ANN) contract with the following details:
 
@@ -356,7 +356,7 @@ In this scenario, we examine an Annuity (ANN) contract with the following detail
 
 The generated cashflow plot and event list provide a detailed visualization and breakdown of the loan’s financial dynamics over its term.
 
-### Cashflow Plot Analysis:
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
 
@@ -373,27 +373,27 @@ The generated cashflow plot and event list provide a detailed visualization and 
 4. **Principal Redemption (PR):**
    - The red arrows mark the principal redemption payments made every 3 months. These payments gradually reduce the outstanding principal amount over the contract term.
 
-### Event List:
+#### Event List
 
 ![image](https://github.com/mounir-hajar/userguide/assets/173672475/e9f6fa2f-1b98-44b5-b1ff-e2ef37ff94a4)
 
 The event list provides a detailed breakdown of each financial transaction over the loan term. Key events include the initial exchange date (IED), regular interest payments (IP), and principal redemptions (PR).
 
-### Overall Interpretation:
+#### Overall Interpretation
 
 This scenario illustrates the financial obligations under an ANN contract with decreasing interest rates. The regular interest and principal payments are clearly shown in the cashflow plot, with the principal amount gradually decreasing over time. The fixed-rate setup ensures consistent interest payments, and the final principal redemption completes the contract at maturity.
 
-### Reminder (Annuity):
+#### Reminder (Annuity)
 
 This contract involves regular periodic payments that include both principal and interest. Each payment reduces the outstanding principal over time, making it ideal for borrowers who prefer to repay the loan in equal installments over the contract term.
 
 This clear visualization helps users understand the impact of regular payments and interest accrual on the overall loan dynamics under a decreasing interest rate scenario.
 
-**Scenario 6:**
+### Scenario 6
 
 ![image](https://github.com/mounir-hajar/userguide/assets/173672475/0001bba4-72c1-4ac1-8448-4fb0710b6828)
 
-### Contract Details:
+#### Contract Details
 
 - **Loan contract type:** ANN
 - **Issue date:** 2015-02-01
@@ -405,11 +405,11 @@ This clear visualization helps users understand the impact of regular payments a
 - **Rate reset spread:** 0.05
 - **Interest rate scenario:** Decreasing Rates
 
-### Overview:
+#### Overview
 
 In this scenario, we examine an Annuity (ANN) contract where the borrower makes regular periodic payments that include both principal and interest. Each payment reduces the outstanding principal over time. The interest rate is adjusted every 3 months according to the decreasing rates scenario.
 
-### Cashflow Plot Analysis:
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
    - The red dashed line shows the principal amount of 1000 CHF, which decreases over the contract term as periodic principal redemptions (PR) are made.
@@ -422,11 +422,11 @@ In this scenario, we examine an Annuity (ANN) contract where the borrower makes 
 4. **Rate Reset (RR):**
    - The rate reset events are marked with green "RR" labels, indicating when the interest rate is adjusted.
 
-### Interpretation:
+#### Interpretation
 
 In this scenario, the borrower makes regular quarterly payments that consist of both interest and principal. The initial loan amount is 1000 CHF with an interest rate of 2%. The interest rate is reset every 3 months based on the decreasing rates scenario, which impacts the interest portion of the payments. Over the 5-year term, the principal amount is gradually reduced until it is fully repaid by the maturity date (2020-02-01). The cashflow plot and event list detail these transactions, providing a clear view of the financial dynamics involved.
 
-### Insights:
+#### Insights
 
 - **Principal Redemptions:** Regular principal payments reduce the outstanding loan balance, which is evident from the decreasing red dashed line on the plot.
 - **Interest Payments:** The interest payments decrease over time as the principal is reduced and the interest rate is reset according to the decreasing rates scenario.
@@ -434,11 +434,11 @@ In this scenario, the borrower makes regular quarterly payments that consist of 
 
 By examining this ANN contract scenario, we gain insights into how annuity loans function with periodic principal and interest payments, and how interest rate adjustments can impact the overall payment structure.
 
-**Scenario 7:**
+### Scenario 7
 
 ![image](https://github.com/mounir-hajar/userguide/assets/173672475/d3f294b0-62db-4fe1-a9e0-7065f8d53b47)
 
-#### Details:
+#### Details
 
 - **Loan Contract Type:** ANN (Annuity)
 - **Issue Date:** 2018-01-01
@@ -450,7 +450,7 @@ By examining this ANN contract scenario, we gain insights into how annuity loans
 - **Rate Reset Spread:** 0.04
 - **Interest Rate Scenario:** Increasing Rates
 
-#### Interpretation:
+#### Interpretation
 
 In this scenario, we analyze an annuity loan contract where the borrower makes regular payments that include both principal and interest. The principal is gradually reduced over the contract term through these periodic payments.
 
@@ -477,11 +477,11 @@ When compared to other scenarios, such as the PAM contract with decreasing rates
 
 Overall, this scenario provides a clear view of the financial obligations under an ANN contract with increasing interest rates. Regular payments reduce the principal steadily, and the rate resets impact the interest payments, reflecting the changes in the interest rate environment. This analysis helps borrowers and lenders understand the cashflow implications and financial commitments associated with an annuity loan in a rising interest rate scenario.
 
-**Scenario 8:**
+### Scenario 8
 
 ![image](https://github.com/mounir-hajar/userguide/assets/173672475/a3793755-d847-47ee-84b2-f6a3618614c0)
 
-### Loan Contract Details
+#### Loan Contract Details
 
 - **Issue Date:** 2017-03-15
 - **Maturity:** 7 years
@@ -492,7 +492,7 @@ Overall, this scenario provides a clear view of the financial obligations under 
 - **Rate Reset Spread:** 0.03
 - **Interest Rate Scenario:** Recovering Rates
 
-### Cashflow Plot Analysis
+#### Cashflow Plot Analysis
 
 1. **Principal (Notional) Amount:**
 
@@ -509,7 +509,7 @@ Overall, this scenario provides a clear view of the financial obligations under 
 4. **Rate Reset (RR):**
    - The rate reset events are marked with green "RR" labels on the plot, indicating when the interest rate is adjusted according to the recovering rates scenario.
 
-### Event List Interpretation
+#### Event List Interpretation
 
 The event list provides a detailed breakdown of each financial transaction over the loan term:
 
@@ -534,7 +534,7 @@ The consistent principal repayments reduce the outstanding loan balance, thereby
 
 Overall, this scenario provides a comprehensive view of the financial obligations under an ANN contract with recovering rates, highlighting the impact of periodic principal repayments and rate resets on the overall loan dynamics.
 
-5. ### Portfolio Analysis
+5. #### Portfolio Analysis
 
 The **Portfolio Analysis** tab allows users to evaluate the income and liquidity over time for a portfolio of ACTUS contracts. Here’s a detailed guide on how to utilize this feature effectively:
 
@@ -664,7 +664,7 @@ The **Uploaded Portfolio Analysis** feature allows you to upload a portfolio of 
 4. **Download Events**:
    - Click the **Download Events** button to download a detailed list of events related to your portfolio's performance under the selected analysis type and risk factor scenario. This report will provide insights into the portfolio’s cash flows, income, and liquidity metrics.
 
-## Improvements which should be made to this demo
+## Improvements to be made
 
 - **Expand Contract Types**:
 

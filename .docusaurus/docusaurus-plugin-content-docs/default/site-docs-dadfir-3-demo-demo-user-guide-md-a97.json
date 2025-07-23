@@ -1,6 +1,6 @@
 {
   "id": "dadfir3-demo/Demo User Guide",
-  "title": "Companion User Guide for ACTUS Portfolio Analysis with Interest Rate Risk Scenarios",
+  "title": "Guide to ACTUS Portfolio Interest Rate Risk Analysis",
   "description": "Document Purpose",
   "source": "@site/docs/dadfir3-demo/Demo User Guide.md",
   "sourceDirName": "dadfir3-demo",
@@ -21,7 +21,7 @@
     "permalink": "/docs/dadfir3-demo/ACTUS Rshiny Demo Guide"
   },
   "next": {
-    "title": "[ACTUSFRF] CORE LICENSE 1.0",
-    "permalink": "/docs/license"
+    "title": "ACTUS Competition Pre-Announcement",
+    "permalink": "/docs/competition"
   }
 }

@@ -1,0 +1,8 @@
+{
+	"label": "3. Simulate ACTUS contract with Market Risk Scenario",
+	"position": 3,
+	"link": {
+		"type": "generated-index",
+		"description": "Here we simulate ACTUS contract using a defined Market Risk Scenario"
+	}
+}

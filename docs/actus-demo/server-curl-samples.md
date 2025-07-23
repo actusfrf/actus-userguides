@@ -8,25 +8,25 @@ This document presents the formatted cURL command samples to interact with the A
 
 Use this sample command and JSON payload structure to interact with the ACTUS server for performing cash flow simulations. Adjust the parameters as needed for your specific use case.
 
-### Sample cURL Command to Fetch Demo Meta Infos
+## Sample cURL Command to Fetch Demo Meta Infos
 
 ```sh
 curl -v -X GET https://demo.actusfrf.org:8080/demos/meta/STK
 ```
 
-### Sample cURL Command to Fetch Demo Details
+## Sample cURL Command to Fetch Demo Details
 
 ```sh
 curl -v -X GET https://demo.actusfrf.org:8080/demos/STK
 ```
 
-### Sample cURL Command to Fetch Specific Demo Details
+## Sample cURL Command to Fetch Specific Demo Details
 
 ```sh
 curl -v -X GET https://demo.actusfrf.org:8080/demo/5db350f7d70b8e45852b3057
 ```
 
-### Sample cURL Command to Compute Events for a Demo Contract
+## Sample cURL Command to Compute Events for a Demo Contract
 
 ```sh
 curl -v -X POST https://demo.actusfrf.org:8080/events \
@@ -47,7 +47,7 @@ curl -v -X POST https://demo.actusfrf.org:8080/events \
   }'
 ```
 
-### Sample cURL Command to Compute Batch Events
+## Sample cURL Command to Compute Batch Events
 
 ```sh
 curl -v -X POST https://demo.actusfrf.org:8080/eventsBatch \
@@ -109,7 +109,7 @@ curl -v -X POST https://demo.actusfrf.org:8080/eventsBatch \
   }'
 ```
 
-### Explanation
+## Explanation
 
 - **`-v`**: Enables verbose mode to provide detailed information about the request and response.
 - **`-X METHOD`**: Specifies the HTTP method to use (GET or POST).
@@ -117,7 +117,7 @@ curl -v -X POST https://demo.actusfrf.org:8080/eventsBatch \
 - **`--data '...'`**: Specifies the JSON payload for the request, which includes the contracts and risk factors data.
 - **URL**: The endpoint for the ACTUS server where the request is sent (e.g., `https://demo.actusfrf.org:8080/eventsBatch`).
 
-### JSON Payload Structure
+## JSON Payload Structure
 
 #### For Single Contract Event Computation
 

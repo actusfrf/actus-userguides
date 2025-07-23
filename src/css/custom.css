@@ -65,3 +65,139 @@
 .menu {
   font-size: .9em;
 }
+
+/* ==== NAVIGATION FIXES - STABLE SIDEBAR AND CONTENT HEADINGS ==== */
+
+/* Fixed sidebar positioning - prevents movement during navigation */
+.theme-doc-sidebar-container {
+  position: sticky !important;
+  top: 120px; /* Match navbar height */
+  width: 300px !important;
+  flex-shrink: 0 !important;
+  height: calc(100vh - 120px);
+  overflow-y: auto;
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Prevent sidebar content from jumping */
+.theme-doc-sidebar-menu {
+  padding: 1rem;
+  min-height: 100%;
+}
+
+/* Ensure stable main layout */
+.docusaurus-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-wrapper {
+  display: flex;
+  flex: 1 0 auto;
+  max-width: 100%;
+}
+
+/* Ensure document titles are always visible and properly displayed */
+.theme-doc-markdown h1 {
+  display: block !important;
+  visibility: visible !important;
+  margin-bottom: 1.5rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--ifm-heading-color);
+}
+
+/* Fix content area to prevent layout shifts */
+.theme-doc-markdown {
+  flex: 1;
+  max-width: none;
+}
+
+/* Ensure sidebar items don't cause layout jumps */
+.theme-doc-sidebar-item-link {
+  transition: none;
+}
+
+/* Prevent sidebar from affecting main content width */
+.docMainContainer {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Smooth scrolling for better UX */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ==== TOC (Table of Contents) FIXES - RIGHT SIDEBAR ==== */
+
+/* Fix TOC scroll offset so headings appear below navbar when clicked */
+.theme-doc-markdown h1,
+.theme-doc-markdown h2,
+.theme-doc-markdown h3,
+.theme-doc-markdown h4,
+.theme-doc-markdown h5,
+.theme-doc-markdown h6 {
+  scroll-margin-top: 140px; /* Navbar height (120px) + padding (20px) */
+  padding-top: 10px; /* Extra space for better visibility */
+}
+
+/* Ensure TOC links work properly with offset */
+.table-of-contents a {
+  text-decoration: none;
+}
+
+/* Fix for anchor links to account for fixed navbar */
+:target {
+  scroll-margin-top: 140px;
+}
+
+/* ==== TOC BAR STABILITY - PREVENT TOC FROM MOVING/SCROLLING ==== */
+
+/* Make TOC container completely stable and fixed */
+.theme-doc-toc-desktop {
+  position: sticky !important;
+  top: calc(var(--ifm-navbar-height) + 1rem) !important;
+  max-height: calc(100vh - var(--ifm-navbar-height) - 2rem) !important;
+  overflow-y: auto;
+  flex-shrink: 0 !important;
+  width: 240px !important;
+}
+
+/* Prevent TOC from moving during navigation */
+.table-of-contents {
+  position: relative !important;
+  width: 100% !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+/* Ensure TOC items don't cause container movement */
+.table-of-contents li {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+/* Prevent TOC links from causing scrolling behavior in TOC container */
+.table-of-contents a {
+  display: block;
+  padding: 0.25rem 0;
+  transition: none !important;
+}
+
+/* Remove any scroll behavior from TOC container itself */
+.theme-doc-toc-desktop,
+.table-of-contents {
+  scroll-behavior: auto !important;
+}
+
+/* Fix TOC wrapper to prevent movement */
+.tocCollapsibleContent_node_modules-\@docusaurus-theme-classic-lib-theme-TOCCollapsible-styles-module {
+  overflow: visible !important;
+}
+
+/* ==== END TOC STABILITY FIXES ====
+
+/* ==== END NAVIGATION FIXES ==== */

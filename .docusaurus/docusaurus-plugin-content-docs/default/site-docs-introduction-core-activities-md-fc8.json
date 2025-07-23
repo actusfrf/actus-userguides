@@ -1,7 +1,7 @@
 {
   "id": "Introduction/core_activities",
-  "title": "Core Activities in the Financial Sector",
-  "description": "Financial Contracts in the Financial Sector",
+  "title": "Core Activities",
+  "description": "Financial Contracts",
   "source": "@site/docs/Introduction/core_activities.md",
   "sourceDirName": "Introduction",
   "slug": "/Introduction/core_activities",
@@ -21,7 +21,7 @@
     "permalink": "/docs/Introduction/Overview"
   },
   "next": {
-    "title": "Understanding Financial Contracts and Systems",
+    "title": "Contracts and Systems",
     "permalink": "/docs/Introduction/Understanding-Financial-Contracts-and-Systems"
   }
 }
