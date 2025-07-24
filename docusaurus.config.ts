@@ -33,13 +33,11 @@ const config: Config = {
 				docs: {
 					sidebarPath: "./sidebars.ts",
 					sidebarCollapsible: true,
-					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					editUrl:undefined,
 				},
 				blog: {
 					showReadingTime: true,
-					editUrl:
-						"https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+					editUrl:undefined,
 				},
 				theme: {
 					customCss: "./src/css/custom.css",
