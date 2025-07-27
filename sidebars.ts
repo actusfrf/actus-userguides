@@ -49,7 +49,7 @@ const sidebars: SidebarsConfig = {
 			],
 		},
 		'competition',
-		'license',
+		
 
 		{
 		type: 'category',
@@ -340,6 +340,7 @@ const sidebars: SidebarsConfig = {
 			},
 		],
 		},
+		'license',
 	],
 
 	// Backup: Keep auto-generation as fallback if needed
