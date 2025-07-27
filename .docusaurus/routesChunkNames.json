@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-3f0": {
+  "/docs-c08": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-229": {
+  "/docs-c90": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-b6c": {
+  "/docs-59a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/actus-demo/demo-user-guide-63a": {
@@ -69,6 +69,46 @@
   "/docs/actus-demo/server-curl-samples-dd7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-actus-demo-server-curl-samplesb-39-156"
+  },
+  "/docs/awesome-actus-lib/architecture-292": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-architecture-25-e-421"
+  },
+  "/docs/awesome-actus-lib/awesome-actus-library-d1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-awesome-actus-library-1-f-3-838"
+  },
+  "/docs/awesome-actus-lib/classes/ActusService-d3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-actus-service-6-e-4-5cc"
+  },
+  "/docs/awesome-actus-lib/classes/Analysis-5cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-analysis-4-a-3-cc8"
+  },
+  "/docs/awesome-actus-lib/classes/cashflowstream-2b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-cashflowstream-903-502"
+  },
+  "/docs/awesome-actus-lib/classes/contractModel-6f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-contract-model-60-b-24f"
+  },
+  "/docs/awesome-actus-lib/classes/PAM-18f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-pam-068-67f"
+  },
+  "/docs/awesome-actus-lib/classes/Portfolio-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-portfoliof-30-d75"
+  },
+  "/docs/awesome-actus-lib/classes/riskfactor-429": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-riskfactor-02-f-475"
+  },
+  "/docs/awesome-actus-lib/classes/RiskService-c3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-awesome-actus-lib-classes-risk-service-124-47d"
   },
   "/docs/category/1-extention-for-actus-risk-factors-288": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -90,6 +130,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-5-future-enhancements-26-d-1af"
   },
+  "/docs/category/awesome-python-library-d25": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-awesome-python-library-9-b-9-34f"
+  },
   "/docs/category/introduction-to-actus-de9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-introduction-to-actus-785-f09"
@@ -97,6 +141,590 @@
   "/docs/competition-88e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-competition-949-f61"
+  },
+  "/docs/contract-terms/accruedInterest-c33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-accrued-interest-11-d-a17"
+  },
+  "/docs/contract-terms/amortizationDate-926": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-amortization-datefc-3-66c"
+  },
+  "/docs/contract-terms/arrayCycleAnchorDateOfInterestPayment-d1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-anchor-date-of-interest-payment-052-63a"
+  },
+  "/docs/contract-terms/arrayCycleAnchorDateOfPrincipalRedemption-c1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-anchor-date-of-principal-redemption-4-c-0-75e"
+  },
+  "/docs/contract-terms/arrayCycleAnchorDateOfRateReset-e36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-anchor-date-of-rate-reset-321-fc7"
+  },
+  "/docs/contract-terms/arrayCycleOfInterestPayment-7e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-of-interest-paymentb-7-e-fc6"
+  },
+  "/docs/contract-terms/arrayCycleOfPrincipalRedemption-75f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-of-principal-redemptionc-0-f-ce5"
+  },
+  "/docs/contract-terms/arrayCycleOfRateReset-c77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-cycle-of-rate-reset-3-e-9-73e"
+  },
+  "/docs/contract-terms/arrayFixedVariable-6cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-fixed-variable-61-d-b17"
+  },
+  "/docs/contract-terms/arrayIncreaseDecrease-0a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-increase-decrease-37-e-90f"
+  },
+  "/docs/contract-terms/arrayNextPrincipalRedemptionPayment-e85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-next-principal-redemption-paymentee-5-e94"
+  },
+  "/docs/contract-terms/arrayRate-aa4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-array-rate-1-ed-30c"
+  },
+  "/docs/contract-terms/boundaryCrossedFlag-cf9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-crossed-flag-8-d-3-67c"
+  },
+  "/docs/contract-terms/boundaryDirection-edf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-directiona-28-6bd"
+  },
+  "/docs/contract-terms/boundaryEffect-99d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-effect-999-831"
+  },
+  "/docs/contract-terms/boundaryLegInitiallyActive-6e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-leg-initially-active-102-84a"
+  },
+  "/docs/contract-terms/boundaryMonitoringAnchorDate-74b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-monitoring-anchor-date-0-df-800"
+  },
+  "/docs/contract-terms/boundaryMonitoringCycle-a15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-monitoring-cyclef-6-b-0e1"
+  },
+  "/docs/contract-terms/boundaryMonitoringEndDate-83e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-monitoring-end-dateed-4-2f1"
+  },
+  "/docs/contract-terms/boundaryValue-78f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-boundary-valuebe-8-f07"
+  },
+  "/docs/contract-terms/businessDayConvention-44e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-business-day-convention-051-f49"
+  },
+  "/docs/contract-terms/calendar-4ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-calendar-90-f-4b0"
+  },
+  "/docs/contract-terms/capitalizationEndDate-6e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-capitalization-end-date-265-988"
+  },
+  "/docs/contract-terms/clearingHouse-eab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-clearing-house-586-29b"
+  },
+  "/docs/contract-terms/contract-terms-overview-0d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-terms-overview-14-b-9e2"
+  },
+  "/docs/contract-terms/contractDealDate-129": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-deal-date-400-298"
+  },
+  "/docs/contract-terms/contractID-559": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-i-ddbc-ffa"
+  },
+  "/docs/contract-terms/contractPerformance-ca6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-performancea-3-c-511"
+  },
+  "/docs/contract-terms/contractRole-341": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-role-9-d-8-13f"
+  },
+  "/docs/contract-terms/contractStructure-b41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-structure-7-c-7-9ac"
+  },
+  "/docs/contract-terms/contractType-a83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-contract-type-9-bc-249"
+  },
+  "/docs/contract-terms/counterpartyID-41e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-counterparty-i-dd-13-626"
+  },
+  "/docs/contract-terms/coverageOfCreditEnhancement-a5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-coverage-of-credit-enhancement-30-a-777"
+  },
+  "/docs/contract-terms/creatorID-70f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-creator-id-698-e83"
+  },
+  "/docs/contract-terms/creditEventTypeCovered-58a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-credit-event-type-covered-845-70f"
+  },
+  "/docs/contract-terms/creditLineAmount-70c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-credit-line-amount-99-b-ab9"
+  },
+  "/docs/contract-terms/currency-983": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-currency-2-f-7-9fd"
+  },
+  "/docs/contract-terms/currency2-205": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-currency-252-a-20f"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfDividend-08c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-dividend-53-a-83e"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfFee-588": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-feeff-6-72c"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfInterestCalculationBase-da5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-interest-calculation-basefd-0-2ef"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfInterestPayment-768": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-interest-paymentefb-4c1"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfMargining-6b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-margining-47-b-9f8"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfOptionality-2f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-optionality-960-753"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfPrincipalRedemption-c6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-principal-redemption-093-b9e"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfRateReset-779": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-rate-resetc-6-c-1b6"
+  },
+  "/docs/contract-terms/cycleAnchorDateOfScalingIndex-b84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-anchor-date-of-scaling-indexf-34-3b1"
+  },
+  "/docs/contract-terms/cycleOfDividend-646": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-dividend-867-8f1"
+  },
+  "/docs/contract-terms/cycleOfFee-8fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-fee-014-99b"
+  },
+  "/docs/contract-terms/cycleOfInterestCalculationBase-81d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-interest-calculation-base-950-7eb"
+  },
+  "/docs/contract-terms/cycleOfInterestPayment-9ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-interest-paymentb-9-e-cbc"
+  },
+  "/docs/contract-terms/cycleOfMargining-9be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-margining-2-ae-875"
+  },
+  "/docs/contract-terms/cycleOfOptionality-7c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-optionality-272-555"
+  },
+  "/docs/contract-terms/cycleOfPrincipalRedemption-06c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-principal-redemption-932-f0e"
+  },
+  "/docs/contract-terms/cycleOfRateReset-8ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-rate-reset-77-e-911"
+  },
+  "/docs/contract-terms/cycleOfScalingIndex-92a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-of-scaling-index-3-a-1-a32"
+  },
+  "/docs/contract-terms/cyclePointOfInterestPayment-cdd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-point-of-interest-paymentec-9-38b"
+  },
+  "/docs/contract-terms/cyclePointOfRateReset-acc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-cycle-point-of-rate-reset-17-b-e3a"
+  },
+  "/docs/contract-terms/dayCountConvention-a26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-day-count-convention-031-623"
+  },
+  "/docs/contract-terms/delinquencyPeriod-0fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-delinquency-perioda-29-c02"
+  },
+  "/docs/contract-terms/delinquencyRate-816": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-delinquency-rate-135-e6d"
+  },
+  "/docs/contract-terms/deliverySettlement-209": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-delivery-settlement-7-e-3-c01"
+  },
+  "/docs/contract-terms/endOfMonthConvention-75c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-end-of-month-convention-4-d-8-212"
+  },
+  "/docs/contract-terms/exDividendDate-1f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-ex-dividend-date-2-f-1-444"
+  },
+  "/docs/contract-terms/exerciseAmount-f96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-exercise-amountfe-7-14b"
+  },
+  "/docs/contract-terms/exerciseDate-cfe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-exercise-date-975-cbf"
+  },
+  "/docs/contract-terms/feeAccrued-347": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-fee-accrued-856-6a7"
+  },
+  "/docs/contract-terms/feeBasis-067": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-fee-basise-99-bc5"
+  },
+  "/docs/contract-terms/feeRate-dc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-fee-ratea-5-a-5cd"
+  },
+  "/docs/contract-terms/fixingPeriod-ab9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-fixing-period-34-a-b51"
+  },
+  "/docs/contract-terms/futuresPrice-a9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-futures-price-488-533"
+  },
+  "/docs/contract-terms/gracePeriod-c02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-grace-period-2-eb-b0a"
+  },
+  "/docs/contract-terms/guaranteedExposure-b4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-guaranteed-exposure-201-c1c"
+  },
+  "/docs/contract-terms/initialExchangeDate-805": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-initial-exchange-date-821-3f8"
+  },
+  "/docs/contract-terms/initialMargin-c2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-initial-margin-501-85f"
+  },
+  "/docs/contract-terms/interestCalculationBase-cae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-interest-calculation-base-99-d-48d"
+  },
+  "/docs/contract-terms/interestCalculationBaseAmount-92e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-interest-calculation-base-amount-34-c-616"
+  },
+  "/docs/contract-terms/interestScalingMultiplier-fc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-interest-scaling-multiplier-036-04d"
+  },
+  "/docs/contract-terms/lifeCap-62f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-life-capd-4-d-c8f"
+  },
+  "/docs/contract-terms/lifeFloor-4c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-life-floor-6-d-9-06e"
+  },
+  "/docs/contract-terms/maintenanceMarginLowerBound-56d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-maintenance-margin-lower-bound-9-b-6-483"
+  },
+  "/docs/contract-terms/maintenanceMarginUpperBound-b64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-maintenance-margin-upper-bound-34-b-f54"
+  },
+  "/docs/contract-terms/marketObjectCode-f1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-market-object-codec-7-b-2e1"
+  },
+  "/docs/contract-terms/marketObjectCodeOfRateReset-74d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-market-object-code-of-rate-reset-8-ca-aea"
+  },
+  "/docs/contract-terms/marketObjectCodeOfScalingIndex-3f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-market-object-code-of-scaling-indexced-c75"
+  },
+  "/docs/contract-terms/marketValueObserved-92a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-market-value-observedf-1-f-b7a"
+  },
+  "/docs/contract-terms/maturityDate-bd0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-maturity-datea-4-b-e40"
+  },
+  "/docs/contract-terms/maximumPenaltyFreeDisbursement-0b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-maximum-penalty-free-disbursement-358-69e"
+  },
+  "/docs/contract-terms/nextDividendPaymentAmount-756": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-next-dividend-payment-amount-8-f-2-3d8"
+  },
+  "/docs/contract-terms/nextPrincipalRedemptionPayment-5a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-next-principal-redemption-paymentb-5-f-7a0"
+  },
+  "/docs/contract-terms/nextResetRate-130": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-next-reset-rate-587-d1d"
+  },
+  "/docs/contract-terms/nominalInterestRate-b03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-nominal-interest-rate-47-d-29f"
+  },
+  "/docs/contract-terms/nominalInterestRate2-42f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-nominal-interest-rate-2166-0b8"
+  },
+  "/docs/contract-terms/nonPerformingDate-360": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-non-performing-date-2-a-5-9a3"
+  },
+  "/docs/contract-terms/notionalPrincipal-a9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-notional-principal-93-b-b60"
+  },
+  "/docs/contract-terms/notionalPrincipal2-a3e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-notional-principal-2-caa-bd6"
+  },
+  "/docs/contract-terms/notionalScalingMultiplier-479": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-notional-scaling-multiplierbab-874"
+  },
+  "/docs/contract-terms/optionExerciseEndDate-794": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-option-exercise-end-date-761-b78"
+  },
+  "/docs/contract-terms/optionExerciseType-60c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-option-exercise-typef-71-a53"
+  },
+  "/docs/contract-terms/optionStrike1-6e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-option-strike-178-e-821"
+  },
+  "/docs/contract-terms/optionStrike2-f1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-option-strike-2133-fb5"
+  },
+  "/docs/contract-terms/optionType-207": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-option-type-719-b7a"
+  },
+  "/docs/contract-terms/penaltyRate-755": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-penalty-rate-61-c-f79"
+  },
+  "/docs/contract-terms/penaltyType-6f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-penalty-type-28-c-c01"
+  },
+  "/docs/contract-terms/periodCap-9af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-period-cap-599-b6d"
+  },
+  "/docs/contract-terms/periodFloor-6a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-period-floor-6-d-1-692"
+  },
+  "/docs/contract-terms/premiumDiscountAtIED-5a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-premium-discount-at-ied-45-f-128"
+  },
+  "/docs/contract-terms/prepaymentEffect-8d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-prepayment-effectf-5-b-34f"
+  },
+  "/docs/contract-terms/prepaymentPeriod-e20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-prepayment-period-765-d8d"
+  },
+  "/docs/contract-terms/priceAtPurchaseDate-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-price-at-purchase-datef-13-1bb"
+  },
+  "/docs/contract-terms/priceAtTerminationDate-221": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-price-at-termination-dateb-00-280"
+  },
+  "/docs/contract-terms/purchaseDate-30f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-purchase-date-5-c-2-5d7"
+  },
+  "/docs/contract-terms/quantity-8ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-quantity-8-a-6-097"
+  },
+  "/docs/contract-terms/rateMultiplier-c46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-rate-multiplier-0-c-0-10b"
+  },
+  "/docs/contract-terms/rateSpread-64e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-rate-spread-7-c-5-378"
+  },
+  "/docs/contract-terms/scalingEffect-577": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-scaling-effectdf-6-cbd"
+  },
+  "/docs/contract-terms/scalingIndexAtContractDealDate-113": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-scaling-index-at-contract-deal-date-9-fe-338"
+  },
+  "/docs/contract-terms/seniority-6f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-senioritydb-3-a77"
+  },
+  "/docs/contract-terms/settlementCurrency-b7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-settlement-currencyb-3-c-020"
+  },
+  "/docs/contract-terms/settlementPeriod-ee7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-settlement-period-9-a-9-e0c"
+  },
+  "/docs/contract-terms/statusDate-678": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-status-date-577-fae"
+  },
+  "/docs/contract-terms/terminationDate-55d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-termination-datebfb-cde"
+  },
+  "/docs/contract-terms/unit-1f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-unit-1-af-6cc"
+  },
+  "/docs/contract-terms/variationMargin-a06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-variation-margin-27-a-a0d"
+  },
+  "/docs/contract-terms/xDayNotice-18a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-terms-x-day-noticedeb-ef2"
+  },
+  "/docs/contract-types/ANN-64f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-ann-134-cfc"
+  },
+  "/docs/contract-types/BCS-56e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-bcs-82-e-efc"
+  },
+  "/docs/contract-types/CAPFL-2ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-capf-la-47-ea9"
+  },
+  "/docs/contract-types/CEC-6a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-cec-066-86d"
+  },
+  "/docs/contract-types/CEG-bde": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-ceg-0-d-6-401"
+  },
+  "/docs/contract-types/CLM-ce5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-cl-md-92-aeb"
+  },
+  "/docs/contract-types/COM-bcf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-com-7-d-5-adb"
+  },
+  "/docs/contract-types/CSH-e8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-cs-hef-0-599"
+  },
+  "/docs/contract-types/FUTUR-0c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-futu-rc-19-ebd"
+  },
+  "/docs/contract-types/FXOUT-e96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-fxout-914-1dd"
+  },
+  "/docs/contract-types/LAM-040": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-la-mc-48-a05"
+  },
+  "/docs/contract-types/LAX-636": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-lax-2-eb-908"
+  },
+  "/docs/contract-types/NAM-30d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-na-md-5-c-080"
+  },
+  "/docs/contract-types/OPTN-668": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-opt-na-23-322"
+  },
+  "/docs/contract-types/OPTNS-3b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-optns-504-4e4"
+  },
+  "/docs/contract-types/PAM-8a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-pa-mef-1-a19"
+  },
+  "/docs/contract-types/STK-a41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-st-kae-6-4dc"
+  },
+  "/docs/contract-types/SWAP-b62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-swap-7-af-a3e"
+  },
+  "/docs/contract-types/SWAPS-fa2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-swaps-648-737"
+  },
+  "/docs/contract-types/SWPPV-f73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-swppv-77-c-0c5"
+  },
+  "/docs/contract-types/UMP-047": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contract-types-ump-82-e-65f"
   },
   "/docs/dadfir3-demo/About-3d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -109,6 +737,114 @@
   "/docs/dadfir3-demo/Demo User Guide-693": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-dadfir-3-demo-demo-user-guidea-97-7b8"
+  },
+  "/docs/examples/advanced-examples/portfolioExample-1c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-advanced-examples-portfolio-example-819-707"
+  },
+  "/docs/examples/advanced-examples/singleContract-d21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-advanced-examples-single-contract-11-f-e6b"
+  },
+  "/docs/examples/advanced-examples/VaR_example-076": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-advanced-examples-va-r-examplee-97-c7a"
+  },
+  "/docs/examples/basic-contract-types/example_ANN-04a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-ann-704-232"
+  },
+  "/docs/examples/basic-contract-types/example_BCS-06d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-bcs-5-cd-150"
+  },
+  "/docs/examples/basic-contract-types/example_CAPFL-60f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-capf-le-23-64c"
+  },
+  "/docs/examples/basic-contract-types/example_CEC-792": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-cec-83-d-487"
+  },
+  "/docs/examples/basic-contract-types/example_CEG-16d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-ce-gac-7-826"
+  },
+  "/docs/examples/basic-contract-types/example_CLM-3e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-clm-671-7c7"
+  },
+  "/docs/examples/basic-contract-types/example_COM-d5c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-com-2-fa-0d6"
+  },
+  "/docs/examples/basic-contract-types/example_CSH-39a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-csh-5-d-4-1e6"
+  },
+  "/docs/examples/basic-contract-types/example_FUTUR-5b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-futur-256-aaf"
+  },
+  "/docs/examples/basic-contract-types/example_FXOUT-ae4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-fxou-tb-6-c-292"
+  },
+  "/docs/examples/basic-contract-types/example_LAM-a77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-lam-47-c-fb1"
+  },
+  "/docs/examples/basic-contract-types/example_LAX-f43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-la-xe-86-d2e"
+  },
+  "/docs/examples/basic-contract-types/example_NAM-625": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-na-mcc-7-a2c"
+  },
+  "/docs/examples/basic-contract-types/example_OPTNS-ff8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-optn-saf-2-e6f"
+  },
+  "/docs/examples/basic-contract-types/example_PAM-0f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-pa-mcf-9-312"
+  },
+  "/docs/examples/basic-contract-types/example_STK-7b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-st-ked-1-80e"
+  },
+  "/docs/examples/basic-contract-types/example_SWAPS-d29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-swaps-43-d-eb7"
+  },
+  "/docs/examples/basic-contract-types/example_SWPPV-4b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-swpp-vc-2-b-5d8"
+  },
+  "/docs/examples/basic-contract-types/example_UMP-c0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-examples-basic-contract-types-example-ump-738-46e"
+  },
+  "/docs/getting-started/basic-usage-d9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-basic-usage-4-ee-ef6"
+  },
+  "/docs/getting-started/configuration-468": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-configuration-009-150"
+  },
+  "/docs/getting-started/installation-267": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-installation-54-f-18d"
+  },
+  "/docs/guides/common-patterns-b47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-common-patternsc-39-266"
+  },
+  "/docs/guides/troubleshooting-69b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-guides-troubleshooting-03-b-dc6"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -189,6 +925,14 @@
   "/docs/RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_Reference_Indexes-3f5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-risk-factors-using-mongodb-actus-risk-database-inserting-sample-risk-data-reference-indexes-6-c-4-88a"
+  },
+  "/docs/standard/core-concepts-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standard-core-conceptsa-36-dc7"
+  },
+  "/docs/standard/overview-199": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standard-overview-2-f-5-43e"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

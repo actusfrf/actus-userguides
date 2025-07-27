@@ -30,12 +30,10 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "sidebarCollapsible": false,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarCollapsible": true
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "./src/css/custom.css"

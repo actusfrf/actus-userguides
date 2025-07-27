@@ -21,8 +21,786 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "awesome-actus-lib/architecture",
+              "path": "/docs/awesome-actus-lib/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/awesome-actus-library",
+              "path": "/docs/awesome-actus-lib/awesome-actus-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/ActusService",
+              "path": "/docs/awesome-actus-lib/classes/ActusService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/Analysis",
+              "path": "/docs/awesome-actus-lib/classes/Analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/cashflowstream",
+              "path": "/docs/awesome-actus-lib/classes/cashflowstream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/contractModel",
+              "path": "/docs/awesome-actus-lib/classes/contractModel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/PAM",
+              "path": "/docs/awesome-actus-lib/classes/PAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/Portfolio",
+              "path": "/docs/awesome-actus-lib/classes/Portfolio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/riskfactor",
+              "path": "/docs/awesome-actus-lib/classes/riskfactor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "awesome-actus-lib/classes/RiskService",
+              "path": "/docs/awesome-actus-lib/classes/RiskService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "competition",
               "path": "/docs/competition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/accruedInterest",
+              "path": "/docs/contract-terms/accruedInterest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/amortizationDate",
+              "path": "/docs/contract-terms/amortizationDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleAnchorDateOfInterestPayment",
+              "path": "/docs/contract-terms/arrayCycleAnchorDateOfInterestPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleAnchorDateOfPrincipalRedemption",
+              "path": "/docs/contract-terms/arrayCycleAnchorDateOfPrincipalRedemption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleAnchorDateOfRateReset",
+              "path": "/docs/contract-terms/arrayCycleAnchorDateOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleOfInterestPayment",
+              "path": "/docs/contract-terms/arrayCycleOfInterestPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleOfPrincipalRedemption",
+              "path": "/docs/contract-terms/arrayCycleOfPrincipalRedemption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayCycleOfRateReset",
+              "path": "/docs/contract-terms/arrayCycleOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayFixedVariable",
+              "path": "/docs/contract-terms/arrayFixedVariable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayIncreaseDecrease",
+              "path": "/docs/contract-terms/arrayIncreaseDecrease",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayNextPrincipalRedemptionPayment",
+              "path": "/docs/contract-terms/arrayNextPrincipalRedemptionPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/arrayRate",
+              "path": "/docs/contract-terms/arrayRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryCrossedFlag",
+              "path": "/docs/contract-terms/boundaryCrossedFlag",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryDirection",
+              "path": "/docs/contract-terms/boundaryDirection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryEffect",
+              "path": "/docs/contract-terms/boundaryEffect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryLegInitiallyActive",
+              "path": "/docs/contract-terms/boundaryLegInitiallyActive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryMonitoringAnchorDate",
+              "path": "/docs/contract-terms/boundaryMonitoringAnchorDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryMonitoringCycle",
+              "path": "/docs/contract-terms/boundaryMonitoringCycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryMonitoringEndDate",
+              "path": "/docs/contract-terms/boundaryMonitoringEndDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/boundaryValue",
+              "path": "/docs/contract-terms/boundaryValue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/businessDayConvention",
+              "path": "/docs/contract-terms/businessDayConvention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/calendar",
+              "path": "/docs/contract-terms/calendar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/capitalizationEndDate",
+              "path": "/docs/contract-terms/capitalizationEndDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/clearingHouse",
+              "path": "/docs/contract-terms/clearingHouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contract-terms-overview",
+              "path": "/docs/contract-terms/contract-terms-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractDealDate",
+              "path": "/docs/contract-terms/contractDealDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractID",
+              "path": "/docs/contract-terms/contractID",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractPerformance",
+              "path": "/docs/contract-terms/contractPerformance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractRole",
+              "path": "/docs/contract-terms/contractRole",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractStructure",
+              "path": "/docs/contract-terms/contractStructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/contractType",
+              "path": "/docs/contract-terms/contractType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/counterpartyID",
+              "path": "/docs/contract-terms/counterpartyID",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/coverageOfCreditEnhancement",
+              "path": "/docs/contract-terms/coverageOfCreditEnhancement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/creatorID",
+              "path": "/docs/contract-terms/creatorID",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/creditEventTypeCovered",
+              "path": "/docs/contract-terms/creditEventTypeCovered",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/creditLineAmount",
+              "path": "/docs/contract-terms/creditLineAmount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/currency",
+              "path": "/docs/contract-terms/currency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/currency2",
+              "path": "/docs/contract-terms/currency2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfDividend",
+              "path": "/docs/contract-terms/cycleAnchorDateOfDividend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfFee",
+              "path": "/docs/contract-terms/cycleAnchorDateOfFee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfInterestCalculationBase",
+              "path": "/docs/contract-terms/cycleAnchorDateOfInterestCalculationBase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfInterestPayment",
+              "path": "/docs/contract-terms/cycleAnchorDateOfInterestPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfMargining",
+              "path": "/docs/contract-terms/cycleAnchorDateOfMargining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfOptionality",
+              "path": "/docs/contract-terms/cycleAnchorDateOfOptionality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfPrincipalRedemption",
+              "path": "/docs/contract-terms/cycleAnchorDateOfPrincipalRedemption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfRateReset",
+              "path": "/docs/contract-terms/cycleAnchorDateOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleAnchorDateOfScalingIndex",
+              "path": "/docs/contract-terms/cycleAnchorDateOfScalingIndex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfDividend",
+              "path": "/docs/contract-terms/cycleOfDividend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfFee",
+              "path": "/docs/contract-terms/cycleOfFee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfInterestCalculationBase",
+              "path": "/docs/contract-terms/cycleOfInterestCalculationBase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfInterestPayment",
+              "path": "/docs/contract-terms/cycleOfInterestPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfMargining",
+              "path": "/docs/contract-terms/cycleOfMargining",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfOptionality",
+              "path": "/docs/contract-terms/cycleOfOptionality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfPrincipalRedemption",
+              "path": "/docs/contract-terms/cycleOfPrincipalRedemption",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfRateReset",
+              "path": "/docs/contract-terms/cycleOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cycleOfScalingIndex",
+              "path": "/docs/contract-terms/cycleOfScalingIndex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cyclePointOfInterestPayment",
+              "path": "/docs/contract-terms/cyclePointOfInterestPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/cyclePointOfRateReset",
+              "path": "/docs/contract-terms/cyclePointOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/dayCountConvention",
+              "path": "/docs/contract-terms/dayCountConvention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/delinquencyPeriod",
+              "path": "/docs/contract-terms/delinquencyPeriod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/delinquencyRate",
+              "path": "/docs/contract-terms/delinquencyRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/deliverySettlement",
+              "path": "/docs/contract-terms/deliverySettlement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/endOfMonthConvention",
+              "path": "/docs/contract-terms/endOfMonthConvention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/exDividendDate",
+              "path": "/docs/contract-terms/exDividendDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/exerciseAmount",
+              "path": "/docs/contract-terms/exerciseAmount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/exerciseDate",
+              "path": "/docs/contract-terms/exerciseDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/feeAccrued",
+              "path": "/docs/contract-terms/feeAccrued",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/feeBasis",
+              "path": "/docs/contract-terms/feeBasis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/feeRate",
+              "path": "/docs/contract-terms/feeRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/fixingPeriod",
+              "path": "/docs/contract-terms/fixingPeriod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/futuresPrice",
+              "path": "/docs/contract-terms/futuresPrice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/gracePeriod",
+              "path": "/docs/contract-terms/gracePeriod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/guaranteedExposure",
+              "path": "/docs/contract-terms/guaranteedExposure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/initialExchangeDate",
+              "path": "/docs/contract-terms/initialExchangeDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/initialMargin",
+              "path": "/docs/contract-terms/initialMargin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/interestCalculationBase",
+              "path": "/docs/contract-terms/interestCalculationBase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/interestCalculationBaseAmount",
+              "path": "/docs/contract-terms/interestCalculationBaseAmount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/interestScalingMultiplier",
+              "path": "/docs/contract-terms/interestScalingMultiplier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/lifeCap",
+              "path": "/docs/contract-terms/lifeCap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/lifeFloor",
+              "path": "/docs/contract-terms/lifeFloor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/maintenanceMarginLowerBound",
+              "path": "/docs/contract-terms/maintenanceMarginLowerBound",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/maintenanceMarginUpperBound",
+              "path": "/docs/contract-terms/maintenanceMarginUpperBound",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/marketObjectCode",
+              "path": "/docs/contract-terms/marketObjectCode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/marketObjectCodeOfRateReset",
+              "path": "/docs/contract-terms/marketObjectCodeOfRateReset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/marketObjectCodeOfScalingIndex",
+              "path": "/docs/contract-terms/marketObjectCodeOfScalingIndex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/marketValueObserved",
+              "path": "/docs/contract-terms/marketValueObserved",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/maturityDate",
+              "path": "/docs/contract-terms/maturityDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/maximumPenaltyFreeDisbursement",
+              "path": "/docs/contract-terms/maximumPenaltyFreeDisbursement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nextDividendPaymentAmount",
+              "path": "/docs/contract-terms/nextDividendPaymentAmount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nextPrincipalRedemptionPayment",
+              "path": "/docs/contract-terms/nextPrincipalRedemptionPayment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nextResetRate",
+              "path": "/docs/contract-terms/nextResetRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nominalInterestRate",
+              "path": "/docs/contract-terms/nominalInterestRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nominalInterestRate2",
+              "path": "/docs/contract-terms/nominalInterestRate2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/nonPerformingDate",
+              "path": "/docs/contract-terms/nonPerformingDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/notionalPrincipal",
+              "path": "/docs/contract-terms/notionalPrincipal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/notionalPrincipal2",
+              "path": "/docs/contract-terms/notionalPrincipal2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/notionalScalingMultiplier",
+              "path": "/docs/contract-terms/notionalScalingMultiplier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/optionExerciseEndDate",
+              "path": "/docs/contract-terms/optionExerciseEndDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/optionExerciseType",
+              "path": "/docs/contract-terms/optionExerciseType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/optionStrike1",
+              "path": "/docs/contract-terms/optionStrike1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/optionStrike2",
+              "path": "/docs/contract-terms/optionStrike2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/optionType",
+              "path": "/docs/contract-terms/optionType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/penaltyRate",
+              "path": "/docs/contract-terms/penaltyRate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/penaltyType",
+              "path": "/docs/contract-terms/penaltyType",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/periodCap",
+              "path": "/docs/contract-terms/periodCap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/periodFloor",
+              "path": "/docs/contract-terms/periodFloor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/premiumDiscountAtIED",
+              "path": "/docs/contract-terms/premiumDiscountAtIED",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/prepaymentEffect",
+              "path": "/docs/contract-terms/prepaymentEffect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/prepaymentPeriod",
+              "path": "/docs/contract-terms/prepaymentPeriod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/priceAtPurchaseDate",
+              "path": "/docs/contract-terms/priceAtPurchaseDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/priceAtTerminationDate",
+              "path": "/docs/contract-terms/priceAtTerminationDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/purchaseDate",
+              "path": "/docs/contract-terms/purchaseDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/quantity",
+              "path": "/docs/contract-terms/quantity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/rateMultiplier",
+              "path": "/docs/contract-terms/rateMultiplier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/rateSpread",
+              "path": "/docs/contract-terms/rateSpread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/scalingEffect",
+              "path": "/docs/contract-terms/scalingEffect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/scalingIndexAtContractDealDate",
+              "path": "/docs/contract-terms/scalingIndexAtContractDealDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/seniority",
+              "path": "/docs/contract-terms/seniority",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/settlementCurrency",
+              "path": "/docs/contract-terms/settlementCurrency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/settlementPeriod",
+              "path": "/docs/contract-terms/settlementPeriod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/statusDate",
+              "path": "/docs/contract-terms/statusDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/terminationDate",
+              "path": "/docs/contract-terms/terminationDate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/unit",
+              "path": "/docs/contract-terms/unit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/variationMargin",
+              "path": "/docs/contract-terms/variationMargin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-terms/xDayNotice",
+              "path": "/docs/contract-terms/xDayNotice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/ANN",
+              "path": "/docs/contract-types/ANN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/BCS",
+              "path": "/docs/contract-types/BCS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/CAPFL",
+              "path": "/docs/contract-types/CAPFL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/CEC",
+              "path": "/docs/contract-types/CEC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/CEG",
+              "path": "/docs/contract-types/CEG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/CLM",
+              "path": "/docs/contract-types/CLM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/COM",
+              "path": "/docs/contract-types/COM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/CSH",
+              "path": "/docs/contract-types/CSH",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/FUTUR",
+              "path": "/docs/contract-types/FUTUR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/FXOUT",
+              "path": "/docs/contract-types/FXOUT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/LAM",
+              "path": "/docs/contract-types/LAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/LAX",
+              "path": "/docs/contract-types/LAX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/NAM",
+              "path": "/docs/contract-types/NAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/OPTN",
+              "path": "/docs/contract-types/OPTN"
+            },
+            {
+              "id": "contract-types/OPTNS",
+              "path": "/docs/contract-types/OPTNS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/PAM",
+              "path": "/docs/contract-types/PAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/STK",
+              "path": "/docs/contract-types/STK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/SWAP",
+              "path": "/docs/contract-types/SWAP"
+            },
+            {
+              "id": "contract-types/SWAPS",
+              "path": "/docs/contract-types/SWAPS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/SWPPV",
+              "path": "/docs/contract-types/SWPPV",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contract-types/UMP",
+              "path": "/docs/contract-types/UMP",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -38,6 +816,141 @@
             {
               "id": "dadfir3-demo/Demo User Guide",
               "path": "/docs/dadfir3-demo/Demo User Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/advanced-examples/portfolioExample",
+              "path": "/docs/examples/advanced-examples/portfolioExample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/advanced-examples/singleContract",
+              "path": "/docs/examples/advanced-examples/singleContract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/advanced-examples/VaR_example",
+              "path": "/docs/examples/advanced-examples/VaR_example",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_ANN",
+              "path": "/docs/examples/basic-contract-types/example_ANN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_BCS",
+              "path": "/docs/examples/basic-contract-types/example_BCS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_CAPFL",
+              "path": "/docs/examples/basic-contract-types/example_CAPFL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_CEC",
+              "path": "/docs/examples/basic-contract-types/example_CEC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_CEG",
+              "path": "/docs/examples/basic-contract-types/example_CEG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_CLM",
+              "path": "/docs/examples/basic-contract-types/example_CLM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_COM",
+              "path": "/docs/examples/basic-contract-types/example_COM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_CSH",
+              "path": "/docs/examples/basic-contract-types/example_CSH",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_FUTUR",
+              "path": "/docs/examples/basic-contract-types/example_FUTUR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_FXOUT",
+              "path": "/docs/examples/basic-contract-types/example_FXOUT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_LAM",
+              "path": "/docs/examples/basic-contract-types/example_LAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_LAX",
+              "path": "/docs/examples/basic-contract-types/example_LAX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_NAM",
+              "path": "/docs/examples/basic-contract-types/example_NAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_OPTNS",
+              "path": "/docs/examples/basic-contract-types/example_OPTNS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_PAM",
+              "path": "/docs/examples/basic-contract-types/example_PAM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_STK",
+              "path": "/docs/examples/basic-contract-types/example_STK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_SWAPS",
+              "path": "/docs/examples/basic-contract-types/example_SWAPS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_SWPPV",
+              "path": "/docs/examples/basic-contract-types/example_SWPPV",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "examples/basic-contract-types/example_UMP",
+              "path": "/docs/examples/basic-contract-types/example_UMP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/basic-usage",
+              "path": "/docs/getting-started/basic-usage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/configuration",
+              "path": "/docs/getting-started/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/common-patterns",
+              "path": "/docs/guides/common-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/troubleshooting",
+              "path": "/docs/guides/troubleshooting",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -141,6 +1054,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "standard/core-concepts",
+              "path": "/docs/standard/core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "standard/overview",
+              "path": "/docs/standard/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/introduction-to-actus",
               "path": "/docs/category/introduction-to-actus",
               "sidebar": "tutorialSidebar"
@@ -168,6 +1091,11 @@
             {
               "id": "/category/5-future-enhancements-",
               "path": "/docs/category/5-future-enhancements-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/awesome-python-library",
+              "path": "/docs/category/awesome-python-library",
               "sidebar": "tutorialSidebar"
             }
           ],
