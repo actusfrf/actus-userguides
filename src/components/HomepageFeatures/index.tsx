@@ -9,7 +9,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Quick Intergration',
+    title: 'Quick Integration',
     description: (
       <>
         The ACTUS Community Edition download and related demo apps make it easy to see 
